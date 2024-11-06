@@ -1,5 +1,5 @@
 {
-  "name": "Custom Assistant Example",
+  "name": "JavaScript Assistant",
   "type": "helper",
   "properties": {
     "user_type": "all", 
